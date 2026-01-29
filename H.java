@@ -11,17 +11,17 @@ class H {
     }
 
     }
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enetr the length of array");
-        int n = sc.nextInt();
+//     public static void main(String[] args) {
+//         Scanner sc = new Scanner(System.in);
+//         System.out.println("Enetr the length of array");
+//         int n = sc.nextInt();
 
-        int[] arr = new int[n];
+//         int[] arr = new int[n];
 
-        for (int i =0; i<n; i++){
-            System.out.println("Enetr the elments of array length"+n);
-            arr [i] = sc.nextInt();
-        }
+//         for (int i =0; i<n; i++){
+//             System.out.println("Enetr the elments of array length"+n);
+//             arr [i] = sc.nextInt();
+//         }
         
-    }
-}
+//     }
+// }
